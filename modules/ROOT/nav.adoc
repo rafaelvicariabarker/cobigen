@@ -1,0 +1,14 @@
+.Usage
+* https://github.com/devonfw/cobigen/wiki/cobigen-eclipse_usage[Usage of the eclipse UI]
+* https://github.com/devonfw/cobigen/wiki/cobigen-openapiplugin#usage[OpenAPI Generation]
+* https://github.com/devonfw/cobigen/wiki/howto_ionic-client-generation[Ionic/Cordova Client Generation]
+* https://github.com/devonfw/cobigen/wiki/howto_angular-client-generation[Angular Client Generation]
+* https://github.com/devonfw/cobigen/wiki/cobigen-maven_configuration[Usage in Maven Builds]
+* https://github.com/devonfw/cobigen/wiki/cobigen-core_configuration[Configuration of the Templates]
+
+.Installation
+* https://github.com/devonfw/cobigen/wiki/cobigen-eclipse_installation[For eclipse users]
+
+.Architecture
+* https://github.com/devonfw/cobigen/wiki#architecture[CobiGen is build as an extensible framework for incremental code generation...]
+
