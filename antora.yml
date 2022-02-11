@@ -1,5 +1,6 @@
 name: cobigen
 title: Cobigen
 version: '1.0'
+start_page: cobigen::Home.adoc
 nav:
 - modules/ROOT/nav.adoc
