@@ -1,4 +1,4 @@
-name: devonfw
+name: cobigen
 title: Cobigen
 version: '1.0'
 start_page: ROOT::Home.adoc
